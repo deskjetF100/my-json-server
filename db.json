@@ -10,5 +10,17 @@
     { "id" : 3 , "email" : "fagno@ifto.edu.br"},
     { "id" : 3 , "email" : "fagno@gmail.com"},
     { "id" : 2 , "email" : "helder@gmail.com"}
+  ],"ementa_curso_sti":[
+     {"id":1, "nome": "Fundamentos de Redes de Computadores", "carga_horaria":72, "semestre":1},
+     {"id":2, "nome": "Tendências Tecnológicas para o Mercado de TI", "carga_horaria":36, "semestre":1},
+     {"id":3, "nome": "Introdução a Computação", "carga_horaria":66, "semestre":1},
+     {"id":4, "nome": "Informática Instrumental", "carga_horaria":72, "semestre":1},
+     {"id":5, "nome": "Introdução à Lógica", "carga_horaria":72, "semestre":1},
+     {"id":6, "nome": "nglês Técnico", "carga_horaria":30, "semestre":1},
+     {"id":7, "nome": "Análise de Sistemas", "carga_horaria":72, "semestre":2},
+     {"id":8, "nome": "Fundamentos de Redes de Computadores", "carga_horaria":72, "semestre":2},
+     {"id":9, "nome": "Introdução à Programação", "carga_horaria":80, "semestre":2},
+     {"id":10, "nome": "Programação Orientada a Objetos", "carga_horaria":72, "semestre":2},
+     {"id":11, "nome": "Programação Básica para Web", "carga_horaria":72, "semestre":2}
   ]
   }
