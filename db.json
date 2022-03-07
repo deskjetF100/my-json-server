@@ -22,5 +22,9 @@
      {"id":9, "nome": "Introdução à Programação", "carga_horaria":80, "semestre":2},
      {"id":10, "nome": "Programação Orientada a Objetos", "carga_horaria":72, "semestre":2},
      {"id":11, "nome": "Programação Básica para Web", "carga_horaria":72, "semestre":2}
+  ],"perguntas_gerais":[
+     {"id":1, "descricao":"pergunta 1", "a":"resposta 1", "b":"resposta 2", "c":"resposta 3", "correta":"resposta 2"},
+     {"id":2, "descricao":"pergunta 1", "a":"resposta 1", "b":"resposta 2", "c":"resposta 3", "correta":"resposta 1"},
+     {"id":3, "descricao":"pergunta 1", "a":"resposta 1", "b":"resposta 2", "c":"resposta 3", "correta":"resposta 3"}
   ]
   }
